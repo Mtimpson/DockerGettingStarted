@@ -1,2 +1,2 @@
 # DockerGettingStarted
-Getting started with Docker.
+Playground Envrionment for Docker projct.
